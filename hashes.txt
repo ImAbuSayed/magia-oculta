@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Magia oculta
+
+This log tracks the cryptographic history and versioning for the song **Magia oculta** (magia-oculta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T15:56:54.375828 | `v1` | `af0558ee1a659317699d33f95a76e029067f1079f21d907c28bbc7eef573f3f4` | `91c94018fe8ab5c87e2dde653fd5e6ec356e1b54de50852b5dcf505c8f3c946b` | `2026-06-17_magia-oculta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
