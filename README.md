@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/magia-oculta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Magia oculta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-oculta/) |
+| **Get License** | [Secure Licensing Rights for Magia oculta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/magia-oculta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esa mirada tuya guarda una magia oculta
+> Bailando lento en la disco, el deseo me sepulta
+> Quiero llevarte esta noche pa' la suite de lujo
+> Tú eres la reina del party, y yo caí en tu embrujo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
